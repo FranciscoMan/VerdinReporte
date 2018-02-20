@@ -1,0 +1,17 @@
+El Codigo esta comentado pero explicare algunas cosas
+
+tiempoCambio: Esta variable contiene el tiempo necesario para un ciclo y da el estado en low para que se quede prendido en verde 
+		el cambio de semaforo
+estado:high empieza el ciclo de semafro
+
+la entrada al potenciometro es A0 asi como VALOR es la variable qe guarda su valor
+
+serial.begin: para inicializar la vista del puerto serial
+
+boton: es una variable para el puerto 3 del arduino
+
+en el setup se inicializan los pines del arduino
+
+en el loop se agrego solo un if, donde la condicion es el estado del boton para asi empezar el ciclo
+
+metodo CambioSemaforo, hace todo el procedimiento de low y high de los leds en cierta secuencia para que se vea como un semaforo
