@@ -145,6 +145,5 @@ proyecto de arduino para la creacion de un semaforo con paso peatonal
 
 
 #Conclusion
->Me percate que todo ese proceso de una alarma en una puerta no tiene gran transfondo como me imagine,
->todo es muy sencllo cuando conoces coo hacerlo y gracias a este tipo de practicas que nos ayudan a comprender
->como funcionan las cosas que nos rodean en el dia a dia y conocer su funcionamiento.
+>Me percate que todo ese proceso de la elaboracion del semaforo no es nada complicaco, solo se necesitan conocimientos muy basicos
+>y la elaboracion de 4 practicas realizadas en el salon de clases.
